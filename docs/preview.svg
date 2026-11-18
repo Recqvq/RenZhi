@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="360" viewBox="0 0 512 360" role="img" aria-label="认知统计界面示意：虚构的5小时17分和8天">
+<rect x="0" y="0" width="512" height="328" rx="38" fill="#292d34"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC',sans-serif">
+<circle cx="38" cy="58" r="6" fill="#a6b7ff"/>
+<text x="58" y="68" fill="#f5f6fa" font-size="24" font-weight="600">认知统计</text>
+<text x="170" y="67" fill="#a5aab4" font-size="20">示例数据</text>
+<path d="M395 48h16m-13 1v13l-4 5h18l-4-5V49m-5 18v9" fill="none" stroke="#a6b7ff" stroke-width="3" stroke-linecap="round"/>
+<text x="445" y="67" font-size="27" fill="#f5f6fa">···</text>
+<text x="32" y="129" font-size="22" fill="#c7cbd2">今日认知提升</text>
+<text x="310" y="129" font-size="22" fill="#c7cbd2">本月认知提升</text>
+<text x="30" y="207" font-size="68" fill="#a6b7ff">5:17</text>
+<path d="M285 107v107" stroke="#424752" stroke-width="1"/>
+<text x="310" y="207" font-size="68" fill="#f5f6fa">8</text>
+<text x="361" y="206" font-size="22" fill="#c7cbd2">天</text>
+<rect x="32" y="240" width="448" height="6" rx="3" fill="#424752"/>
+<rect x="32" y="240" width="394" height="6" rx="3" fill="#a6b7ff"/>
+<text x="32" y="286" font-size="20" fill="#a5aab4">最后更新 17:20</text>
+<path d="M469 269a10 10 0 1 0 8 12m-8-19 6 7-9 3" fill="none" stroke="#c7cbd2" stroke-width="2" stroke-linecap="round"/>
+<text x="256" y="353" text-anchor="middle" font-size="16" fill="#7a8190">界面示意 · 所有数值均为虚构</text>
+</g></svg>
